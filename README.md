@@ -26,12 +26,4 @@ A full-stack MERN application that allows users to create, edit, and delete pers
 ## 📸 Project Preview
 
 ![Screenshot](./assets/screenshot.png)
-
----
-
-## ⚙️ Setup Instructions
-
-1. Clone the repo:
-   ```bash
-   git clone https://github.com/your-username/note-manager.git
-   cd note-manager
+![image](https://github.com/user-attachments/assets/97ecd4db-0ff7-4df6-a969-0d4583eaf669)
